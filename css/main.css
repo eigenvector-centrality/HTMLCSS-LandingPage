@@ -18,3 +18,6 @@ section { display: flex;}
 .align-center {align-items: center;}
 .center {justify-content: center;}
 .space-between {justify-content: space-between;}
+.btn {cursor: }
+.btn-default {color: white; background-color: #faa541;}
+.btn-primary {color: white; background-color: #364147;}
